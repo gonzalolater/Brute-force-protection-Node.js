@@ -1,4 +1,4 @@
-# Brute-force-protection-Node.js-examples
+# Brute-force-protection-Node.js
 
 Example of How protect Brute Force with NodeJS
 
